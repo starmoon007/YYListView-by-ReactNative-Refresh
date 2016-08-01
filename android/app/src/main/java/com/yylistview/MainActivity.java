@@ -1,6 +1,7 @@
 package com.yylistview;
 
 import com.facebook.react.ReactActivity;
+import cn.reactnative.modules.update.UpdatePackage;
 
 public class MainActivity extends ReactActivity {
 
