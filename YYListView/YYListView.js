@@ -329,7 +329,7 @@ YYListView.defaultProps={
   noDataView : ()=>{
     return (
         <Text>
-            NODATA
+            NODATA----test
         </Text>
     );
   }
